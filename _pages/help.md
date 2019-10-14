@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: Help
 include_in_header: true
 ---
 

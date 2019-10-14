@@ -1,6 +1,6 @@
 ---
 layout: page
-title: eYFi-MEGA | Downloads
+title: Downloads
 include_in_header: true
 ---
 
