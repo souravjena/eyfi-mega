@@ -50,7 +50,7 @@ include_in_header: true
 * Allows user to switch between ESP32 User Application and eYFi-Mega OTA Application.
 
 ## eYFi-Mega ATMega2560 OTA Bootloader <a name="ota-app"></a>
-<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-ota-app-releases/raw/master/eyfi-mega-ota-app.bin" target="_self" style="color: #ffffff">Download v0.1.1</a></button>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-atmega2560-bootloader-releases/archive/master.zip" target="_self" style="color: #ffffff">Download v0.1.1</a></button>
 * Allows user to flash ATMega2560 firmware wirelessly.
 
 ## ESP32 Local OTA Update App <a name="ota-app"></a>
