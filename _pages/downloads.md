@@ -4,62 +4,65 @@ title: Downloads
 include_in_header: true
 ---
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+</head>
+
+<!-- <button class="btn"><i class="fa fa-download"></i> <a href="https://www.google.com" target="_self" style="color: #ffffff">Download</a></button> -->
+
 # eYFi-MEGA Downloads
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
 
-<br>
+ <ol type="1">
+  <li><a href="#ey-ide" target="_self">eY-IDE (VS Code Based)</a></li>
+  <li><a href="#esp32-boot" target="_self">eYFi-Mega ESP32 OTA Bootloader</a></li>
+  <li><a href="#atmega2560-boot" target="_self">eYFi-Mega ATMega2560 OTA Bootloader</a></li>
+  <li><a href="#ota-app" target="_self">ESP32 Local OTA Update App</a></li>
+  <li><a href="#wireless-tx-app" target="_self">ESP32 Wireless AVR Serial Terminal App</a></li>
+  <li><a href="#rr-apps" target="_self">eYRC 2019-20: Rapid Rescuer Downloads</a></li>
+</ol> 
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## eY-IDE (VS Code Based) <a name="ey-ide"></a>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://www.google.com" target="_self" style="color: #ffffff">Download</a></button>
+* VS Code based **portable** e-Yantra IDE. Unzip and Use.
+* Program ATMega2560 and ESP32.
+* Flash ATMega2560 and ESP32 programs wirelessly through the IDE.
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## eYFi-Mega ESP32 OTA Bootloader <a name="ota-app"></a>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-esp32-bootloader-releases/raw/master/esp32-bootloader.bin" target="_self" style="color: #ffffff">Download v0.4.0</a></button>
+* Allows user to switch between ESP32 User Application and eYFi-Mega OTA Application.
 
-<br>
+## eYFi-Mega ATMega2560 OTA Bootloader <a name="ota-app"></a>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-ota-app-releases/raw/master/eyfi-mega-ota-app.bin" target="_self" style="color: #ffffff">Download v0.1.1</a></button>
+* Allows user to flash ATMega2560 firmware wirelessly.
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+## ESP32 Local OTA Update App <a name="ota-app"></a>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-ota-app-releases/raw/master/eyfi-mega-ota-app.bin" target="_self" style="color: #ffffff">Download v0.1.1</a></button>
+* ESP32 application to enable wireless flashing of ATMega2560 or ESP32 firmware.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## ESP32 Wireless AVR Serial Terminal App <a name="wireless-tx-app"></a>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-wireless-tx-releases/raw/master/eyfi-mega-wireless-terminal.bin" target="_self" style="color: #ffffff">Download v0.1.0</a></button>
+* ESP32 application to transmit serial data from ATMega2560 to any computing device (Phones, Laptops) over WiFi.
 
-<br>
-
-________
-<br>
-
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+## eYRC 2019-20: Rapid Rescuer Downloads <a name="rr-apps"></a>
+### RR Grader
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyrc-2019-20-rr-releases/raw/master/rr-grader.zip" target="_self" style="color: #ffffff">Download v0.1.0</a></button>
 
 <br>
